@@ -1,0 +1,13 @@
+
+Google Earth Engine Scripts Links:
+1. eThekwini
+  a. GBM ML: https://code.earthengine.google.com/84bf84635757091cc7625ad678cb2d95
+  b. RF ML: https://code.earthengine.google.com/49ba07aa4f9d3a867e3e66fb54567e03
+  c. Otsu Threshold: https://code.earthengine.google.com/ac1138631267d7f43deeb54270c8af61
+  d. Otsu-RF and Otsu-GBM: https://code.earthengine.google.com/250ce65b57b597454a57618387f1816a
+
+2. Ugu District Municipality
+  a. GBM ML: https://code.earthengine.google.com/861c54573eaf3d1453b946b61b9f2837
+  b. RF ML: https://code.earthengine.google.com/842ab704b75a2244c6932b6493d5a473
+  c. Otsu Threshold: https://code.earthengine.google.com/c7b5ea048619e7b2a80676142493018a
+  d. Otsu-GBM and Otsu-RF: https://code.earthengine.google.com/c46dbc2ab0573e609ffa492fb46ba806
