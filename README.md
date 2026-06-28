@@ -1,5 +1,8 @@
 
+---
 Exploring Landsat-8 imagery for flood inundation mapping using thresholding, machine learning and hybrid techniques: A case study of the April 2022 flood event in the East Coast of South Africa
+===
+
 
 This study attempts to answer questions such as (i) can the Otsu threshold be used to derive training data for ML applications? and (ii) how reliable is the Otsu threshold in detecting flooded areas in South African landscapes? To answer the aforementioned questions. 
 This study set objectives to: 
